@@ -1,0 +1,26 @@
+body{margin-top:0px;margin-bottom: 0px;margin-left: 0px;margin-right: 0px;}
+.top{ 
+    background-image: url(https://images5.alphacoders.com/101/1014382.jpg);
+    
+    height: 100%;
+     margin-top:0px;margin-bottom: 0px;margin-left: 0px;margin-right: 0px;
+     width: 100%;   
+}
+.middle{
+    background-image: url(http://yesofcorsa.com/wp-content/uploads/2016/12/4K-Fire-Pics.jpg);
+   
+    background-position: 50%;
+    margin: 0;
+    size: 50px;
+    height: 100%;
+    width: 100%;
+}
+.buttom{
+    background-image: url(https://www.itl.cat/pngfile/big/85-851540_ice-pattern-4k-ultra-hd-wallpaper-ice-frost.jpg);
+    background-position: 50%;
+    margin: 0;
+    height: 100%;
+    width: 100%;
+}
+h1{margin-top:0px;margin-bottom: 0px;margin-left: 0px;margin-right: 0px;}
+p{margin-top:0px;margin-bottom: 0px;margin-left: 0px;margin-right: 0px;}
