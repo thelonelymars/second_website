@@ -1,19 +1,20 @@
-body{margin-top:0px;margin-bottom: 0px;margin-left: 0px;margin-right: 0px; }
+body{margin-top:0px;margin-bottom: 0px;margin-left: 0px;margin-right: 0px; background-color:#99FFCD  }
 .top{ 
     background-color:#99FFCD ;
     
     height: 100%;
     margin-top:0px;margin-bottom: 0px;margin-left: 0px;margin-right: 0px;
      width: 35%;
-    position:absolute;
+    position:relative;
     left: 65%;
-    bottom: 0%;
+    bottom: 100%;
 
 }
 img{
+    
     right: 20%;
     width: 65%;
-    height: auto;
+    height: 100%;
     height:max-content;
 }
 
