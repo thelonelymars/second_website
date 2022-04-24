@@ -1,10 +1,11 @@
 .top{ 
     background-color:#99FFCD ;
     display: inline-block;
-    height: fit-content;
+    height: 950px;
     margin-top:0px;margin-bottom: 0px;margin-left: 0px;margin-right: 0px;
-     width: fit-content;
+     width: 613px;
     position:absolute;
+    left: 68%;
    
 }
 body{margin-top:0px;margin-bottom: 0px;margin-left: 0px;margin-right: 0px; background-color:#99FFCD   }
@@ -12,13 +13,14 @@ body{margin-top:0px;margin-bottom: 0px;margin-left: 0px;margin-right: 0px; backg
 img{
     
     
-    
+    display: inline-block;
     height: 950px;
+    width: 1300px;
 }
 
 .web{
     background-color: #F55353;
 }
 
-h1{margin-top:0px;margin-bottom: 0px;margin-left: 0px;margin-right: 0px;  position:absolute; top: 150; left: 70;  font-style: italic; font-size: 55px; color:#143F6B; }
-p{margin-top:0px;margin-bottom: 0px;margin-left: 0px;margin-right: 0px;  position:absolute; top: 264; left: 55;    font-size: 25px; color: #326f81;}
+h1{margin-top:0px;margin-bottom: 0px;margin-left: 0px;margin-right: 0px;    font-style: italic; font-size: 55px; color:#143F6B; }
+p{margin-top:0px;margin-bottom: 0px;margin-left: 0px;margin-right: 0px;      font-size: 25px; color: #326f81;}
